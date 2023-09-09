@@ -2,14 +2,19 @@
   "workbench.colorCustomizations": {
     "[GitHub Dark Default]": {
       "titleBar.border": "#1d1d1d",
+      "sideBar.background": "#080a0e",
       "sideBar.border": "#141414",
       "sideBarSectionHeader.border": "#141414",
       "editorGroupHeader.tabsBorder": "#1d1d1d",
       "tab.border": "#141414",
       "panel.border": "#14141400",
-      "activityBar.border": "#1d1d1d",
+      "activityBar.border": "#141414",
+      "activityBar.background": "#06070a",
       "tree.indentGuidesStroke": "#929292",
-      "tree.inactiveIndentGuidesStroke": "#757575"
+      "tree.inactiveIndentGuidesStroke": "#757575",
+      "gitDecoration.modifiedResourceForeground": "#ffd75e",
+      "gitDecoration.untrackedResourceForeground": "#6bffa1",
+      "gitDecoration.deletedResourceForeground": "#ff6881"
     }
   },
 
