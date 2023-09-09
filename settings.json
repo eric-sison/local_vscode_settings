@@ -1,0 +1,26 @@
+{
+  "workbench.colorCustomizations": {
+    "[GitHub Dark Default]": {
+      "titleBar.border": "#1d1d1d",
+      "sideBar.border": "#141414",
+      "sideBarSectionHeader.border": "#141414",
+      "editorGroupHeader.tabsBorder": "#1d1d1d",
+      "tab.border": "#141414",
+      "panel.border": "#14141400",
+      "activityBar.border": "#1d1d1d",
+      "tree.indentGuidesStroke": "#929292",
+      "tree.inactiveIndentGuidesStroke": "#757575"
+    }
+  },
+
+  "editor.fontFamily": "'Liberation Mono', 'monospace', monospace",
+  "editor.fontSize": 14,
+  "editor.formatOnSave": true,
+  "editor.fontLigatures": true,
+  "editor.bracketPairColorization.enabled": false,
+  "editor.tokenColorCustomizations": {
+    "[GitHub Dark Default]": {
+      "strings": "#ffd86b"
+    }
+  }
+}
