@@ -18,7 +18,7 @@
     }
   },
 
-  "editor.renderWhitespace": "trailing",
+  "editor.renderWhitespace": "none",
   "editor.fontFamily": "'Liberation Mono', 'monospace', monospace",
   "editor.fontSize": 14,
   "editor.formatOnSave": true,
